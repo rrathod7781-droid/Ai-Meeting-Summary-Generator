@@ -1,4 +1,4 @@
-#import transcript
+# import transcript
 # from pathlib import Path
 # from transcript import get_transcript_from_video
 # #import Generate_summary
