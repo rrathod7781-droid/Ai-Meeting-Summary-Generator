@@ -3,5 +3,7 @@ langchain-community
 langchain-groq
 pydub
 audioop-lts
-
+streamlit
+google-genai
+dotenv
 
