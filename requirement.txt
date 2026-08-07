@@ -1,8 +1,7 @@
 langchain-core
 langchain-community
 langchain-groq
-langchain-mistralai
 pydub
 audioop-lts
 
-#pip install langchain langchain-community assemblyai
+
