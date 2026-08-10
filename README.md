@@ -1,6 +1,6 @@
 # Ai-Meeting-Summary-Generator
 
-# 📝 AI Meeting Notes Generator
+# 📝 AI Meeting Summary Generator
 
 An AI-powered meeting summarization application that converts recorded meeting videos or audio files into clean, structured meeting notes.
 
