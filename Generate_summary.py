@@ -4,6 +4,8 @@ from langchain_core.messages import SystemMessage, HumanMessage
 from dotenv import load_dotenv
 import os
 load_dotenv()
+import Text_transcript as tt
+import Audio_transcript as at
 
 api_key = os.getenv("GROQ_API_KEY")
 
@@ -70,3 +72,25 @@ def generate(transcript):
 
     # Join the summaries with a couple of newlines to separate chunks
     return "\n\n".join(summaries)
+
+# print("Welcome to the AI Meeting Summary Generator!")
+# print("What would you like to do? :- ")
+# print("Enter 1 for summary from a video/audio file")
+# print("Enter 2 for summary from a transcript text")
+# choice = input("Your choice: ")
+# if choice == "1":
+#     file_path = input("Enter the path to your video/audio file: ")
+#     if not os.path.isfile(file_path):
+#         print(f"File not found: {file_path}")
+#         exit(1)
+#     transcript_text = at.get_transcript_from_video(file_path)
+#     summary = generate(transcript_text)
+#     print("\n",summary)
+
+# elif choice == "2":
+#     transcript_text = tt.transcript()
+#     summary = generate(transcript_text)
+#     print("\n",summary)
+
+# else:
+#     print("Invalid choice. Please enter 1 or 2.")

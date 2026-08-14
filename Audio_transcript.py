@@ -55,3 +55,5 @@ def get_transcript_from_video(file_path: str) -> str:
     )
     
     return response.text
+
+#transcript = get_transcript_from_video("")
