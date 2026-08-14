@@ -457,9 +457,6 @@ GOOGLE_API_KEY=your_google_api_key
 GROQ_API_KEY=your_groq_api_key
 ```
 
-**Never commit `.env` or real API keys to GitHub.**
-
-For production deployment, additional security hardening and a production database would be recommended.
 
 ---
 
