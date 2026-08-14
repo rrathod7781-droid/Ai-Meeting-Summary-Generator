@@ -4,7 +4,6 @@
 > **Turn long meeting recordings or raw transcripts into clear, structured, and actionable meeting notes with AI.**
 =======
 # 📝 AI Meeting Summary Generator
->>>>>>> 780061b00d08f1a22eba39f598c7320eff6de96f
 
 ARMSG (**AI Recorded Meeting Summary Generator**) is a Python-based AI application designed to save time when reviewing recorded meetings.
 
