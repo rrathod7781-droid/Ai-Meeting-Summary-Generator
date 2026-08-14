@@ -545,19 +545,6 @@ The major update is the ability to **use an existing meeting transcript directly
 
 ---
 
-# 🔮 Future Scope
-
-The project is still evolving. Future versions can extend the system with:
-
-- Speaker identification
-- Multi-language support
-- PDF / DOCX export
-- Better meeting analytics
-- Calendar integration
-- More persistent database storage
-- Production-grade authentication
-- Advanced search across meeting history
-- Improved summary customization
 
 ---
 
