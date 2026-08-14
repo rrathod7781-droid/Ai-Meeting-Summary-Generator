@@ -6,4 +6,4 @@ audioop-lts
 streamlit
 google-genai
 dotenv
-
+bcrypt
